@@ -16,6 +16,6 @@ _______________
 """
 
 mn = int(input())
-print("{}\n{}".format(mn//60,mn%60))
+print("{}\n{}".format(mn // 60, mn % 60))
 
-# print(mn//60,mn%60, sep="\n") 
+# print(mn//60, mn%60, sep = "\n") 
